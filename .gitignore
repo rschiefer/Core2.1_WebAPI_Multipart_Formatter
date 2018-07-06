@@ -3,3 +3,5 @@
 ################################################################################
 
 /WebAPI_Multipart_Formatter/obj
+/WebAPI_Multipart_Formatter/bin/Debug/netcoreapp2.1
+/.vs
